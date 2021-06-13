@@ -1,0 +1,25 @@
+	table {
+		width: 100%;
+	}
+	th {
+		background: yellowgreen;
+		height: 30px;
+		box-shadow: 5px 5px 5px black;
+	}
+	td {
+		text-align: center;
+		height : 30px;
+		border-bottom-style: solid;
+		border-width: thin;
+	}
+	
+	.first {
+		width: 30%;
+	}
+	.second {
+		width: 70%;
+	}
+	.last {
+		border-width: thick;
+	}
+	
